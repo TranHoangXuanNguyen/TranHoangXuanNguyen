@@ -15,8 +15,7 @@ except ImportError:
 HEADERS = {'Authorization': f'token {ACCESS_TOKEN}'}
 GRAPHQL_URL = 'https://api.github.com/graphql'
 
-# --- Birthday config (change to your birthday) ---
-BIRTHDAY = datetime(2002, 1, 1)  # YYYY, MM, DD - thay đổi ngày sinh của bạn
+BIRTHDAY = datetime(2005, 6, 21)  # YYYY, MM, DD=
 
 
 def run_query(query, variables=None):
