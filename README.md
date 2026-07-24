@@ -1,26 +1,26 @@
 ```
-  uxxxxxnnuuvvczXYUUUUJYrrjjjjjjjjjjjjjfff     nguyen@profile ——————————————————————————————————————
-  |)(((((||\\/tjjffjuzcr][{{{{}}}}}}}}}}}}     . OS:                    Ubuntu 24.04, Arch Linux
-  /|||\\\//tffjtnCZW$$$$pt}1)1111111111{{{     . Uptime:                XX years, X months, X days
-  \\\\\\//tfffjw$$$$$$$$$$d(1111{1{{{{{{{{     . Host:                  Vietnam
-  \\\\//tfffjfX$$$BdCq$$$$$b[)1{{{{{1{{{{{     . Kernel:                Backend Developer / DevOps Learner
-  \t//ttffffjrrW$B#qJrJbCZ$Q[)11{{{{{{{{{{     . IDE:                   VSCode, IntelliJ IDEA
-  \ftffffjjjrxfCoUUUqzuX\)J)111111{{{{{{{{     .
-  tjfffjjjrrxxxvJczLdCXvt(|)111111{{{{{{{{     . Languages.Programming: TypeScript, JavaScript, Python, Bash
-  fjjjjjrrrxxnuuuvCOQcf/t/11111111{{{{{{{{     . Languages.Computer:    HTML, CSS, JSON, YAML
-  frrrrrfxnnnuuvcvYmZCxff\(()11111{{{{{{{{     . Languages.Real:        Vietnamese, English
-  jrrxxxfunfnvcvufuZCY\1|x~+{)((){{{{{{{{{     .
-  rrxxu\\rtxur\j[?+/Jnrvv]  ^I~-[)){{{{{{{     . Stack.Backend:         NestJS, Express, PostgreSQL, Redis
-  xnncJr/(1(?~+(]~n(?}}+\fl,` ^,":~1){{{}}     . Stack.DevOps:          Docker, K8s, GitHub Actions, Grafana
-  nuunuUv(+?>~-]+>Z@!<'|ZI!I'^`^I' "[(1(rt     .
-  YvXuux{<~]~?+~+~>@u:]W]^,^`'' :"` '[(|wC     — Contact ———————————————————————————————————————————
-  LUc/(-<!>]>?-+<<;r&+#r";^[t(! ,"'" "/\mr     . Email.Personal:        your_email@gmail.com
-  UJj|-II!!-<+?-~><!C&Q^I,^LXL1 ;^"^  )cz{     . LinkedIn:              your_linkedin
-  Oz/(<;,~l~~~[?<~~>fb;;";"<|?'^"^; '.^xr?     . Portfolio:             your_portfolio
-  Zzf/!^l[l<_?{+?-<~\]!:^^,^. ``;l' "` /Xf     . Discord:               your_discord
-  Jctc-l}1l!~]_++;li+II'^'''   .<^  .  '!l     .
-  JYcvuuxx)}(f(t[?{]()}<~><~<!!<[-]}(_>>i>     — GitHub Stats ——————————————————————————————————————
-                                               . Repos:    XX {Contributed: XX} | Stars:       XX
-                                               . Commits:              X,XXX | Followers:      XX
-                                               . Lines of Code:    XX,XXX ( XX,XXX++, X,XXX-- )
+  vnnnuuuvvvcczXYUJJCCCJxxxxrrrrrrrrrrrrrr     nguyen@profile ——————————————————————————————————————
+  ())(((((||\/tfjrrjjrxt]{{}}}}}}}}}}}}[[[     . OS:                    Ubuntu 24.04, Arch Linux
+  /|||\\\//tffjjfxvZW@%au[{(1111111111{{{{     . Uptime:                XX years, X months, X days
+  \||\\\\//tfffnd@$$$$$$$hf})1111{{{{{{{{{     . Host:                  Vietnam
+  \\\\\//tffffn@$$$Wo@$$$$$u{)1{{1{{{{{{{{     . Kernel:                Backend Developer / DevOps Learner
+  //////tfffjfX$$$8qYUM$$$$*[)1{{{{{{{{{{{     . IDE:                   VSCode, IntelliJ IDEA
+  \t/tttfffjjrf*$#owLxXwcz$X}11{{{{{{{{{{{     .
+  \ftffffjjjrxjJhYzYpzuz/)z)111111{{{{{{{{     . Languages.Programming: TypeScript, JavaScript, Python, Bash
+  tjffffjjrrxxxvCzzLdLUcf(\)111111{{{{{{{{     . Languages.Computer:    HTML, CSS, JSON, YAML
+  tjjjjjrrrxxnnnuvCOOcf\\\11111111{{{{{{{{     . Languages.Real:        Vietnamese, English
+  fjjrrrjxxnnuuvvuUmOYxfx/11111111{{{{{{{{     .
+  frrrxx/xurxuvvzuzZZCf|)f1)()11{{{{{{{{{{     . Stack.Backend:         NestJS, Express, PostgreSQL, Redis
+  jrrxnjfvjjvcvut1\LUv\(xf^,+[1((1{{{{{{{{     . Stack.DevOps:          Docker, K8s, GitHub Actions, Grafana
+  rxxxc||//xj\{/-_<]zrxzr- .'`I!+{)1{1{{{{     .
+  xnuzJuj(}{+<~)[<Jx>?+Ifri;^'`,^`!{){{{}}     — Contact ———————————————————————————————————————————
+  nuurxYc(+]<~??~>L$>~`fw,lI`"'^l` ^[(1(xf     . Email.Personal:        your_email@gmail.com
+  zvXvvu1<~]~?+~+~~$r;_W[^,,. ` ;"` '}(\mC     . LinkedIn:              your_linkedin
+  OUcf\[~!<]<?_+<~:XMlbX":^!|]^ ,"'^ ;\(wu     . Portfolio:             your_portfolio
+  YJx|]!l!!?>_?+~>>>bq#I;,"ZuU| :^^"  /vJ(     . Discord:               your_discord
+  LY/(+;:>l+~~]]<<<>jB-^;:^(YuI':`;   >nr?     .
+  Ocf(!:,+l<++{_~+~ijv;I^,,:l^.^^:" `' xc1     — GitHub Stats ——————————————————————————————————————
+  Zzfri^<{l<_]}+]_i+(~i,"^"`.'''!I''"' }n\     . Repos:    XX {Contributed: XX} | Stars:       XX
+  Uctv]<{{l!<]++~,ll~lI `.''   '>`  .   ,"     . Commits:              X,XXX | Followers:      XX
+  JUzvvcuu|{|j|f}[(}\|{~+~~_~>>~}]}(t]~~<~     . Lines of Code:    XX,XXX ( XX,XXX++, X,XXX-- )
 ```
