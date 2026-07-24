@@ -1,26 +1,26 @@
 ```
-   JJJJJUUYXzzccunxrrjrjxCLLLLLLLQLLQQQQQQQ    nguyen@profile ——————————————————————————————————————
-   UUUUUUYYXXzcvuxuXOQCCL*OCCLCLQQLLQQQQQQQ    . OS:                    Ubuntu 24.04, Arch Linux
-   UUUUUYXXXzccvJ0CX~    f&kLLQQLLQQQQQQQQQ    . Uptime:                21 years, 1 months, 3 days
-   YUUYYYXXzzccOc'         c*QCLQLQQQQQQQQQ    . Host:                  Vietnam
-   YYXXzXzzccuJx    !_      )kJLQQLQQQQQQQQ    . Kernel:                Backend Developer / DevOps Learner
-   XXXXzzccccuJ)   '}zU^     *JLQQQQQQQQQQQ    . IDE:                   VSCode, IntelliJ IDEA
-   zzXczccccvuuZ  l'_?Jv+Um 1aCLLQQQQQQQQQQ    .
-   czcccccvvvurQ]Iccr:rc(Lo)p0CQLLLQQQQQQQQ    . Languages.Programming: TypeScript, JavaScript, Python, Bash
-   cccccvvuuunnct[jx]^?})vOvQLLLLLLQQQQQLQQ    . Languages.Computer:    HTML, CSS, JSON, YAML
-   vvvcvvnunnxxrnnr???nCCCUOQLLLQLLQQQQQQQQ    . Languages.Real:        Vietnamese, English
-   vuuvuucxnjrrrjju)~](uvtnOCQLLLCLQQQQQQQQ    .
-   uuunrnUjjcxjjf1f(+~_zU0vYcvJLQQQQQQQQQQQ    . Stack.Backend:         NestJS, Express, PostgreSQL, Redis
-   uunxjzx)zz/)|(u0ul)f0pu?$$OYccXCOQQQQQQQ    . Stack.DevOps:          Docker, K8s, GitHub Actions, Grafana
-   unuxjpcXc(/cOxMh$w<f|<]a$$$$MhZzcCQLQLLQ    .
-   xxf)_YYZQQaMaz08]mBZm$O~aoB$$B$$aXXQLQmO    — Contact ———————————————————————————————————————————
-   rxxzj?}QbZMhZ0b$  $k$a $#b$M$@b$$$LcQOUz    . Email.Personal:        your_email@gmail.com
-   jr{u}tO*wZhZqhw#M h$$ r$&M$$B$##B$$CzQ[-    . LinkedIn:              your_linkedin
-   {||vu0k%wZaObpbd$  $l $%$$mb$$&M$%$$um)<    . Portfolio:             your_portfolio
-   )}XUb*o#k0*0Zbhk8M Y &$#$l?1}$*#$o$$Jt]j    . Discord:               your_discord
-   }tCYoB8k#OodZ0khh$j z$o#$]!\"c$o$&M$$%1{U   .
-   1xULM88ZBwkkUpadq%r.$#$*$%Zo$$&$k$$8$L?O    — GitHub Stats ——————————————————————————————————————
-   {nYJ$$oC$pp0Ja00aanwo&B$&$$$$$&kB$&#$p u    . Repos:  34 {Contributed: 8} | Stars:  6
-   1jc>$*zY@bdJpqOM*kL%a$M$%B$$$$Q*$$$$$$qd    . Commits:          431 | Followers:      4
-   txvcCJULhkqOp0h#kodkh@8@B%@$$$aM88o#$$$@    . Lines of Code:    1,449,804 ( 1,908,233++, 458,429-- )
+   --------------------------------------------  nguyen@profile ——————————————————————————————————————
+   -------------     ----::::--  --------------  . OS:                    Ubuntu 24.04, Arch Linux
+   ----------- :!|uvuzzzc****cov!:-------------  . Uptime:                21 years, 1 months, 3 days
+   ----------~uc0QQ0000QQQQ000000*z~-----------  . Host:                  Vietnam
+   ---------IOQ0000OOO000OOO0Q00000*|----------  . Kernel:                Backend Developer / DevOps Learner
+   --------u0000**OO*zu|I!+!IuzcO0000z:--------  . IDE:                   VSCode, IntelliJ IDEA
+   --------vQ00Oc**zI~~~_____~+!|o000O~--------  .
+   --------~*00cv*vI!+~~~~~+++!I!Ic00c---------  . Languages.Programming: TypeScript, JavaScript, Python, Bash
+   ---------_*OIIuuuuI!+~~+!IuIII+IOOI---------  . Languages.Computer:    HTML, CSS, JSON, YAML
+   ---------_zz++++!!++!~~~~+!+++++zu~---------  . Languages.Real:        Vietnamese, English
+   ---------:||+++~__+!!++++~___~++I!:---------  .
+   ----------_+!!++~~!!!++++~~~~+++_:----------  . Stack.Backend:         NestJS, Express, PostgreSQL, Redis
+   ------------_!!+++!IIII!!++~+++_------------  . Stack.DevOps:          Docker, K8s, GitHub Actions, Grafana
+   ----------:::_+!!+++++++++++++_-------------  .
+   ---------:::::+I!!!+++++++!!!+_:------------  — Contact ———————————————————————————————————————————
+   ------:::::::!|!!!!!!+++++++++u|------------  . Email.Personal:        xuannguyen21062005@gmail.com
+   ::::::::::::::!!+~++++~~~~~~~+|_--:---------  . Facebook:              https://web.facebook.com/xuannguyen2106
+   :::---::::::::~++++~~~~~~~~~+!+:------------  . LinkedIn:              https://www.linkedin.com/in/tranhoangxuannguyen/
+   -----:::::::::::__~~~~~~~~~_::_+_:--::------  . Portfolio:             https://tranhoangxuannguyen.github.io/react-vite-portfolio/
+   ------:---::-----:-:_~~~_:-::----:--:-------  .
+   ------::-------------:~:--------------------  — GitHub Stats ——————————————————————————————————————
+   -:::--:::-----------::---------------------:  . Repos:  34 {Contributed: 8} | Stars:  6
+   -:::::::---------::::----------------:::--::  . Commits:          431 | Followers:      4
+   :::::::::-------:::::----:------------::::::  . Lines of Code:    1,449,804 ( 1,908,233++, 458,429-- )
 ```
