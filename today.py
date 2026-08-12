@@ -125,10 +125,6 @@ def format_number(n):
     """Format number with commas: 1234 -> 1,234"""
     return f"{n:,}"
 
-
-# ============================================================
-# ASCII ART - Thay đổi ASCII art của bạn ở đây
-# ============================================================
 ASCII_ART = [
     r"   --------------------------------------------",
     r"   -------------     ----::::--  --------------",
@@ -156,26 +152,23 @@ ASCII_ART = [
     r"   :::::::::-------:::::----:------------::::::",
 ]
 
-# ============================================================
-# INFO TEMPLATE - Thay đổi thông tin của bạn ở đây
-# ============================================================
 def build_info_lines(stats, loc_add, loc_del, loc_total):
     """Build the right-side info lines with live data."""
     uptime = calculate_uptime()
     return [
         f"nguyen@profile ——————————————————————————————————————",
-        f". OS:                    Ubuntu 24.04, Arch Linux",
+        f". OS:                    Arch Linux",
         f". Uptime:                {uptime}",
         f". Host:                  Vietnam",
         f". Kernel:                Backend Developer / DevOps Learner",
-        f". IDE:                   VSCode, IntelliJ IDEA",
+        f". IDE:                   VSCode, IntelliJ IDEA, NVim",
         f".",
-        f". Languages.Programming: TypeScript, JavaScript, Python, Bash",
+        f". Languages.Programming: TypeScript, Java, Python, Bash",
         f". Languages.Computer:    HTML, CSS, JSON, YAML",
         f". Languages.Real:        Vietnamese, English",
         f".",
-        f". Stack.Backend:         NestJS, Express, PostgreSQL, Redis",
-        f". Stack.DevOps:          Docker, K8s, GitHub Actions, Grafana",
+        f". Stack.Backend:         NestJS, SpringBoot, PostgreSQL, Redis",
+        f". Stack.DevOps:          Docker, Aws, GitHub Actions, Grafana",
         f".",
         f"— Contact ———————————————————————————————————————————",
         f". Email.Personal:        hoangnguyendepgiai@gmail.com",
