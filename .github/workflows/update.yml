@@ -19,6 +19,9 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
 
+      - name: Sync with latest branch
+        run: git pull --ff-only origin ${{ github.ref_name }}
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -42,6 +45,5 @@ jobs:
           git add README.md
           git diff --quiet && git diff --staged --quiet || {
             git commit -m "auto: update profile stats [skip ci]"
-            git pull --rebase origin ${{ github.ref_name }}
             git push origin HEAD:${{ github.ref_name }}
           }
