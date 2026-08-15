@@ -1,7 +1,7 @@
 ```
    -------------------------------------------- nguyen@profile ——————————————————————————————————————
    -------------     ----::::--  -------------- . OS:                    Arch Linux
-   ----------- :!|uvuzzzc****cov!:------------- . Uptime:                21 years, 1 months, 24 days
+   ----------- :!|uvuzzzc****cov!:------------- . Uptime:                21 years, 1 months, 25 days
    ----------~uc0QQ0000QQQQ000000*z~----------- . Host:                  Vietnam
    ---------IOQ0000OOO000OOO0Q00000*|---------- . Kernel:                Backend Developer / DevOps Learner
    --------u0000**OO*zu|I!+!IuzcO0000z:-------- . IDE:                   VSCode, IntelliJ IDEA, NVim
